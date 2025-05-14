@@ -1,0 +1,10 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Obj_base","order":2,"path":"objects/Obj_base/Obj_base.yy",},
+    {"name":"Obj_lazer","order":1,"path":"objects/Obj_lazer/Obj_lazer.yy",},
+    {"name":"Snd_Enemyshoot","order":1,"path":"sounds/Snd_Enemyshoot/Snd_Enemyshoot.yy",},
+    {"name":"Spr_base","order":2,"path":"sprites/Spr_base/Spr_base.yy",},
+    {"name":"Spr_Lazer","order":1,"path":"sprites/Spr_Lazer/Spr_Lazer.yy",},
+  ],
+}

@@ -1,0 +1,1 @@
+Base_health = 1000;
